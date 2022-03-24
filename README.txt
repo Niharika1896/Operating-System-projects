@@ -1,3 +1,5 @@
+Demostrated working knowledge and functionality of Operating System components like linker, scheduler, virtual memory manager and IO manager. Implemented 5 scheduling, 6 paging and 5 IO handling algorithms. (like FIFO, RoubndRobin, Shortest Job, Clock, Aging, CLOOK, FLOOK, etc.)
+
 The entire project has been coded in C++. The goal of this project is to demonstrate working knowledge of different components of an Operating System. This project is divided into 4 parts:
 
 Part 1 - Linker:
