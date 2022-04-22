@@ -15,5 +15,4 @@ Part 3 - Virtual Memory Management:
   In mmu.cpp, I simulated the operation of an Operating System’s Virtual Memory Manager and mapped the virtual address spaces of multiple processes onto physical frames using page table translation. I have assumed multiple processes, each with its own virtual address space of 64 virtual pages. I have implemented paging as the sum of all virtual pages in all virtual address spaces may exceed the number of physical frames of my simulated system.
   
   
-Run with the following gcc:
-module load gcc-11.2
+Run with the following gcc: gcc-11.2
